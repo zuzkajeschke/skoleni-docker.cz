@@ -40,6 +40,9 @@ Pokud chcete dostavit novinky o skupinovych skolenich a seminarich, muzete se pr
 * pracuji na projektech jako je Slush Pool
 * podnikam na internetu, nekere moje projekty: PHPHost, Neomail, MyBitcoinPayments
 
+### Reference
+
+* "Školení s panem Sikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení." - Lukas Blazicek
 
 ---
 

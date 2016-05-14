@@ -51,6 +51,7 @@ Otevřené termíny naleznete zde. Pokud máte zájem o školení ve firmě nebo
 
 Najdete me take na socialnich sitich:
 
+- [LinkedIn](https://www.linkedin.com/in/ondrejsika)
 - [Facebook](https://facebook.com/sikaondrej2)
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)

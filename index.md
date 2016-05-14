@@ -7,7 +7,9 @@ title: Skoleni GIT
 
 ## O mne
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.com) a skolim GIT a ekosystem okolo. S GITem mam vice nez 5 let zkusenosti v komercnim vyvoji software. Pracuji jako vyvojar na nekolika globalnich projektech, primarne na [Slush Pool](https://slushpool.com). Skolim vice nez 3 roky problematiku kolem verzovani a vyvoje software obecne. Vsechny kurzy vedu osobne.
+Jmenuji se [Ondrej Sika](https://ondrejsika.com) a skolim GIT a ekosystem okolo. Mimo skoleni GITu nabizim jeste mnoho dalsich skoleni, muzete je najit na mem webu [ondrejsika.com/skoleni](https://ondrejsika.com/skoleni).
+
+S GITem mam vice nez 5 let zkusenosti v komercnim vyvoji software. Pracuji jako vyvojar na nekolika globalnich projektech, primarne na [Slush Pool](https://slushpool.com). Skolim vice nez 3 roky problematiku kolem verzovani a vyvoje software obecne. Vsechny kurzy vedu osobne.
 
 
 ## Co vas naucim
@@ -25,6 +27,7 @@ Skoleni probiha bud u me v kancelari nebo mohu priject k Vam do firmy. Na skolen
 
 Vsechny materialy ze skoleni jsou volne k dispozici na [github.com/skoleni-git](https://github.com/skoleni-git) a na mem [Speakerdeck](https://speakerdeck.com/ondrejsika).
 
+Po absolvovani skoleni obdrzite certifikat o ucasti, PGP podepsany a verejne auditovatelny z webu.
 
 ## Mam zajem o skoleni
 
@@ -54,7 +57,7 @@ Najdete me take na socialnich sitich:
 
 Vice kontaktu na me najdete na mem webu na strance [kontakt](https://ondrejsika.com/contact.html).
 
-Pokud mate zajem o zasilani novinek ohledne kurzu, muzete se prihlasit k odberu meho [newslettru](https://go.oxs.cz/skoleni-git/newsletter).
+Pokud mate zajem o zasilani novinek ohledne kurzu, muzete se prihlasit k odberu meho [newslettru](http://go.oxs.cz/skoleni-git-newsletter).
 
 
 ## Cena

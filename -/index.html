@@ -1,0 +1,19 @@
+---
+layout: default
+title: Site Settings
+---
+
+<h1>Settings</h1>
+
+
+<p>
+Analytics
+<a href="" onclick="localStorage.setItem('SETTINGS__ANALYTICS', 'true')">on</a>
+<a href="" onclick="localStorage.setItem('SETTINGS__ANALYTICS', 'false')">off</a>
+<span id="settings__analytics"></span>
+</p>
+
+<script>
+document.getElementById("settings__analytics").innerHTML = SETTINGS__ANALYTICS;
+</script>
+

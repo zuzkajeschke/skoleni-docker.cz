@@ -3,11 +3,17 @@ layout: default
 title: Školení GIT
 ---
 
+[Facebook](https://facebook.com/skolenigit)
+| [Twitter](https://twitter.com/skolenigit)
+
+<div style="height: 10px"></div>
+
+
 # Školení GIT
 
 ## O mne
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém okolo. Mimo školení GITu nabízím ještě mnoho dalších školení, můžete je najít na mém webu [ondrejsika.com/skoleni](https://ondrejsika.com/skoleni).
+Jmenuji se [Ondrej Sika](https://ondrejsika.cz) a školím GIT a ekosystém okolo. Mimo školení GITu nabízím ještě mnoho dalších školení, můžete je najít na mém webu [ondrejsika.com/skoleni](https://ondrejsika.com/skoleni).
 
 S GITem mám více než 5 let zkušenosti v komerčním vývoji software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Školím více než 3 roky problematiku kolem verzovani a vývoje software obecně. Všechny kurzy vědu osobně.
 
@@ -45,7 +51,7 @@ Otevřené termíny naleznete zde. Pokud máte zájem o školení ve firmě nebo
 ### Ondrej Sika
 
 - <ondrej@ondrejsika.com>
-- <https://ondrejsika.com>
+- <https://ondrejsika.cz>
 - +420 773 452 376
 
 Najdete mě také na sociálních sítích:
@@ -57,8 +63,11 @@ Najdete mě také na sociálních sítích:
 
 Více kontaktu na mě najdete na mém webu na stránce [kontakt](https://ondrejsika.com/contact.html).
 
+## Novinky
+
 Pokud máte zájem o zasílání novinek ohledně kurzu, můžete se přihlásit k odběru mého [newslettru](http://go.oxs.cz/skoleni-git-newsletter).
 
+Nebo muzete sledovat [Facebook](https://facebook.com/skolenigit) a [Twitter](https://twitter.com/skolenigit).
 
 ## Cena
 

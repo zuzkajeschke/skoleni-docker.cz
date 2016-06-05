@@ -38,12 +38,10 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 Otevřené termíny naleznete zde. Pokud máte zájem o školení ve firmě nebo o jiný termín, neváhejte mě kontaktovat.
 
-| Název | Termín |
-| --- | --- |
-| GIT pro začátečníky | 18. 5. 2016 |
-| GIT pro pokročilé | 25. 5. 2016 |
-| GIT pro začátečníky | 15. 6. 2016 |
-| GIT pro pokročilé | 22. 6. 2016 |
+| Název | Termín | |
+| --- | --- | --- |
+| GIT pro začátečníky | 15. 6. 2016 | [prihlaska](http://goo.gl/forms/61WiMCpVMO3Sm8a83) |
+| GIT pro pokročilé | 22. 6. 2016 | [prihlaska](http://goo.gl/forms/t2RgOGsc1ewxIi3J3) |
 
 
 ## Kontakt

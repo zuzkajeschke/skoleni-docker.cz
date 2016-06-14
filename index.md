@@ -22,6 +22,12 @@ h1 {
     color: white;
     margin-bottom: 50px;
 }
+
+h2 {
+    background: url(/static/header.jpg) center;
+    padding: 10px;
+    color: white;
+}
 </style>
 <div class="header">
     <center>

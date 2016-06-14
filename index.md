@@ -3,13 +3,33 @@ layout: default
 title: Školení GIT
 ---
 
-[Facebook](https://facebook.com/skolenigit)
-| [Twitter](https://twitter.com/skolenigit)
+Kontakt: __Ondrej Sika__, <ondrej@ondrejsika.com>, +420 773 452 376
 
 <div style="height: 10px"></div>
 
+<!--
+<img src="/static/header.jpg" class="img-responsive">
+-->
 
-# Školení GIT
+<style>
+.header {
+    background: url(/static/header.jpg) center;
+    height: 270px;
+    padding-top: 50px;
+}
+
+h1 {
+    color: white;
+    margin-bottom: 50px;
+}
+</style>
+<div class="header">
+    <center>
+        <h1>Školení GIT</h1>
+        <a href="http://goo.gl/forms/NKcqvdYXkMvEY0qw2" class="btn btn-large btn-success">Objednat skoleni</a>
+        <a href="#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
+    </center>
+</div>
 
 ## O mne
 

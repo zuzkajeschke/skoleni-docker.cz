@@ -3,19 +3,12 @@ layout: default
 title: Školení GIT
 ---
 
-Kontakt: __Ondrej Sika__, <ondrej@ondrejsika.com>, +420 773 452 376
-
-<div style="height: 10px"></div>
-
-<!--
-<img src="/static/header.jpg" class="img-responsive">
--->
-
 <style>
 .header {
     background: url(/static/header.jpg) center;
     height: 270px;
     padding-top: 50px;
+    margin-top: 30px;
 }
 
 h1 {

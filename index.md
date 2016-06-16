@@ -21,20 +21,25 @@ h2 {
     padding: 10px;
     color: white;
 }
+
+blockquote {
+    font-size: 14px;
+}
 </style>
 <div class="header">
     <center>
         <h1>Školení GIT</h1>
-        <a href="http://goo.gl/forms/NKcqvdYXkMvEY0qw2" class="btn btn-large btn-success">Objednat skoleni</a>
+        <a href="http://goo.gl/forms/NKcqvdYXkMvEY0qw2" class="btn btn-large btn-success">Objednat školení</a>
         <a href="#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
     </center>
 </div>
 
-## O mne
+## O mně
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.cz) a školím GIT a ekosystém okolo. Mimo školení GITu nabízím ještě mnoho dalších školení, můžete je najít na mém webu [ondrejsika.com/skoleni](https://ondrejsika.com/skoleni).
+Jmenuji se [Ondrej Sika](https://ondrejsika.cz) a školím GIT a ekosystém okolo. Mimo školení GITu nabízím ještě mnoho dalších školení, můžete je najít na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz).
 
-S GITem mám více než 5 let zkušenosti v komerčním vývoji software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Školím více než 3 roky problematiku kolem verzovani a vývoje software obecně. Všechny kurzy vědu osobně.
+Všechny kurzy vědu osobně. S GITem mám více než 5 let zkušenosti v komerčním vývoji software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Školím více než 3 roky problematiku kolem verzovani a vývoje software obecně.
+
 
 ## Co vás naučím
 
@@ -46,7 +51,7 @@ V pokročilém kurzu si ukážeme další možnosti práce s kódem, složitěj�
 
 ## Jak školení probíhá
 
-Školení probíhá buď u mě v kanceláří nebo mohu priject k Vám do firmy. Na školení je potřeba vlastní notebook, na operačním systému nezáleží. GIT si společně nainstalujeme a nakonfigurujeme, pokud bude potřeba. Při školení si ukážeme všechny konstrukty na připravených ukázkových repozitářích, v případě zejmu na vlastním projekte. Vše si podrobně vyzkoušíme a osaháme. Školení trvá zhruba 4 hodiny.
+Školení probíhá buď u mě v kanceláři nebo mohu priject k Vám do firmy. Na školení je potřeba vlastní notebook, na operačním systému nezáleží. GIT si společně nainstalujeme a nakonfigurujeme, pokud bude potřeba. Při školení si ukážeme všechny konstrukty na připravených ukázkových repozitářích, v případě zejmu na vlastním projekte. Vše si podrobně vyzkoušíme a osaháme. Školení trvá zhruba 4 hodiny.
 
 Všechny materiály že školení jsou volně k dispozici na [github.com/skoleni-git](https://github.com/skoleni-git) a na mém [Speakerdeck](https://speakerdeck.com/ondrejsika).
 
@@ -55,12 +60,7 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Mám zájem o školení
 
-Otevřené termíny naleznete zde. Pokud máte zájem o školení ve firmě nebo o jiný termín, neváhejte mě kontaktovat.
-
-| Název | Termín | |
-| --- | --- | --- |
-| GIT pro začátečníky | 15. 6. 2016 | [prihlaska](http://goo.gl/forms/61WiMCpVMO3Sm8a83) |
-| GIT pro pokročilé | 22. 6. 2016 | [prihlaska](http://goo.gl/forms/t2RgOGsc1ewxIi3J3) |
+Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objednat školení](http://goo.gl/forms/NKcqvdYXkMvEY0qw2).
 
 
 ## Kontakt
@@ -99,13 +99,13 @@ Určitě se dá domluvit nějaká skupinová sleva, nebo lepší cena, v přípa
 
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
 >
-> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in EYELEVEL s.r.o.__
+> __Bc. Ondřej Fous, DiS.,<br> Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
 
 > "Konzultace nám ukázala nové možnosti jak s GITem efektivněji pracovat a zjednodušila nám mnoho dosavadních postupu"
 >
-> __Ing. Vít Chmura, WebNaut s.r.o.__
+> __Ing. Vít Chmura, [WebNaut s.r.o.](http://webnaut.cz)__
 
-> "Školení s panem Šikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
+> "Školení s panem Sikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
 >
 > __Lukáš Blažíček__
 

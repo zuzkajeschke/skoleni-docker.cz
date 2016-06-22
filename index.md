@@ -43,7 +43,7 @@ Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém oko
 >
 > __Bc. Ondřej Fous, DiS., Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
 
-Všechny kurzy vědu osobně. S GITem mám více než 5 let zkušenosti v komerčním vývoji software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Školím více než 3 roky problematiku kolem verzovani a vývoje software obecně.
+Všechny kurzy vedu osobně. S GITem mám více než 5 let zkušenosti v komerčním vývoji software. Pracuji jako vývojář na několika globálních projektech, primárně na [Slush Pool](https://slushpool.com). Školím více než 3 roky problematiku kolem verzovani a vývoje software obecně.
 
 
 ## Co vás naučím
@@ -61,7 +61,7 @@ V pokročilém kurzu si ukážeme další možnosti práce s kódem, složitěj�
 
 ## Jak školení probíhá
 
-Školení probíhá buď u mě v kanceláři nebo mohu priject k Vám do firmy. Na školení je potřeba vlastní notebook, na operačním systému nezáleží. GIT si společně nainstalujeme a nakonfigurujeme, pokud bude potřeba. Při školení si ukážeme všechny konstrukty na připravených ukázkových repozitářích, v případě zejmu na vlastním projekte. Vše si podrobně vyzkoušíme a osaháme. Školení trvá zhruba 4 hodiny.
+Školení probíhá buď u mě v kanceláři nebo mohu prijet k Vám do firmy. Na školení je potřeba vlastní notebook, na operačním systému nezáleží. GIT si společně nainstalujeme a nakonfigurujeme, pokud bude potřeba. Při školení si ukážeme všechny konstrukty na připravených ukázkových repozitářích, v případě zejmu na vlastním projekte. Vše si podrobně vyzkoušíme a osaháme. Školení trvá zhruba 4 hodiny.
 
 > "Školení s panem Sikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
 >
@@ -74,11 +74,12 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena každého kurzu je __2000 CZK__ za osobu, v případě firemních školení je cena __9000 CZK__ pro za celou firmu.
+Cena každého kurzu je __2000 CZK__ za osobu, v případě firemních školení je cena __9000 CZK__ za celou firmu.
 
-Studenti mají __50% slevu__, také podproruji holky z [Czechitas](http://czechitas.cz), takže holky mají kurz __zdarma__.
+Studenti, Univerzity a neziskovky mají __50% slevu__.
 
 Určitě se dá domluvit nějaká skupinová sleva, nebo lepší cena, v případě zájmu a nebo dotazů mě neváhejte kontaktovat.
+
 
 ## Mám zájem o školení
 

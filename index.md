@@ -37,7 +37,7 @@ blockquote {
 
 ## O mně
 
-Jmenuji se [Ondrej Sika](https://ondrejsika.cz) a školím GIT a ekosystém okolo. Mimo školení GITu nabízím ještě mnoho dalších školení, můžete je najít na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz).
+Jmenuji se [Ondrej Sika](https://ondrejsika.com) a školím GIT a ekosystém okolo. Mimo školení GITu nabízím ještě mnoho dalších školení, můžete je najít na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz).
 
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
 >

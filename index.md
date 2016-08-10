@@ -50,13 +50,13 @@ Všechny kurzy vedu osobně. S GITem mám více než 5 let zkušeností v komer�
 
 Nabízím dva druhý školení: pro začátečníky a pro pokročilé.
 
-V kurzu pro začátečníky si řekněme, co to vlastně verzování je a seznámíme se se základními příkazy a workflow GITu. GIT si nainstalujeme, nakonfigurujeme, případně si vytvoříme SSH klíče na práci se vzdálenými repozitáři. Ukáži Vám, jak v GITu pracovat s větvemi, stashem a dalšími jednoduchými konstrukty, které Vám v nmohém zpříjemní vývoj software. Naučím Vás pracovat s nástroji, jako je [Github](https://github.com) a nebo [Gitlab](https://gitlab.com).
+V kurzu pro začátečníky si řekneme, co to vlastně verzování je a seznámíme se se základními příkazy a workflow GITu. GIT si nainstalujeme, nakonfigurujeme, případně si vytvoříme SSH klíče na práci se vzdálenými repozitáři. Ukáži Vám, jak v GITu pracovat s větvemi, stashem a dalšími jednoduchými konstrukty, které Vám v mnohém zpříjemní vývoj software. Naučím Vás pracovat s nástroji, jako je [Github](https://github.com) a nebo [Gitlab](https://gitlab.com).
 
 > "Konzultace nám ukázala nové možnosti jak s GITem efektivněji pracovat a zjednodušila nám mnoho dosavadních postupu"
 >
 > __Ing. Vít Chmura, [WebNaut s.r.o.](http://webnaut.cz)__
 
-V pokročilém kurzu si ukážeme další možnosti práce s kódem, složitější workflow a pokročilý refaktoring kódu. Řekneme si o tom, jak si nastavit procesy ve firmě pro efektivní vývoj software v teamu, ukážeme si výhody a nevýhody jednotlivých workflow a Vy sami se rozhodnete, co Vám vyhovuje nejvíce. Ukáži Vám, jak si spustit privátní [Gitlab](https://gitlab.com) instanci na vlastní infrastruktuře. V případě zájmu Vám ukáži základy CI (Continues Integration) a automatického testování.
+V pokročilém kurzu si ukážeme další možnosti práce s kódem, složitější workflow a pokročilý refaktoring kódu. Řekneme si o tom, jak si nastavit procesy ve firmě pro efektivní vývoj software v teamu, ukážeme si výhody a nevýhody jednotlivých workflow a Vy sami se rozhodnete, co Vám vyhovuje nejvíce. Ukážu Vám, jak si spustit privátní [Gitlab](https://gitlab.com) instanci na vlastní infrastruktuře. V případě zájmu Vám ukážu základy CI (Continues Integration) a automatického testování.
 
 
 ## Jak školení probíhá
@@ -112,4 +112,3 @@ Nebo můžete sledovat [Facebook](https://facebook.com/skolenigit) a [Twitter](h
 ---
 
 2016 / [Školení GIT](https://skoleni-git.cz) / [ondrejsika.cz](https://ondrejsika.cz) / [Ondrej Sika](https://ondrejsika.com)
-

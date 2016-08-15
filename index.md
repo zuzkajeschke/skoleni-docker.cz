@@ -14,7 +14,7 @@ title: Školení GIT
 ## Aktualně vypsané termíny
 
 - Školení GITu pro začátečníky - 24. 8. 2016
-- Školení GITu pro začátečníky - 24. 8. 2016
+- Školení GITu pro pokročilé - 31. 8. 2016
 
 
 ## O mně
@@ -93,4 +93,5 @@ Nebo můžete sledovat [Facebook](https://facebook.com/skolenigit) a [Twitter](h
 
 ---
 
-2016 / [Školení GIT](https://skoleni-git.cz) / [ondrejsika.cz](https://ondrejsika.cz) / [Ondrej Sika](https://ondrejsika.com)
+2016 / [Školení GIT](https://skoleni-git.cz) / [Profesní web](https://ondrejsika.cz) / [Osobní web](https://ondrejsika.com)
+

@@ -3,30 +3,6 @@ layout: default
 title: Školení GIT
 ---
 
-<style>
-.header {
-    background: url(/static/header.jpg) center;
-    height: 270px;
-    padding-top: 50px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-
-h1 {
-    color: white;
-    margin-bottom: 50px;
-}
-
-h2 {
-    background: url(/static/header.jpg) center;
-    padding: 10px;
-    color: white;
-}
-
-blockquote {
-    font-size: 14px;
-}
-</style>
 <div class="header">
     <center>
         <h1>Školení GIT</h1>
@@ -34,6 +10,12 @@ blockquote {
         <a href="#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
     </center>
 </div>
+
+## Aktualně vypsané termíny
+
+- Školení GITu pro začátečníky - 24. 8. 2016
+- Školení GITu pro začátečníky - 24. 8. 2016
+
 
 ## O mně
 

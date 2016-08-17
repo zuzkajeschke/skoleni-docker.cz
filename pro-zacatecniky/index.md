@@ -12,7 +12,7 @@ title: Školení GITu pro začátečníky
 
 ## Obsah kurzu
 
-Kurz probíhá formou workshopu, vše si osaháte.
+Kurz probíhá formou workshopu, vše si vyzkoušíte.
 
 - GIT si společně nainstalujeme na jakoukoliv platformu (Linux, OSX, Windows) a základně nakonfigurujeme.
 - Naučím vás základní workflow, které se dá velmi efektivně použít při práci na projektu (sám nebo v malém počtu).

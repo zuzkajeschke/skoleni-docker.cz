@@ -91,7 +91,3 @@ Pokud máte zájem o zasílání novinek ohledně kurzu, můžete se přihlásit
 
 Nebo můžete sledovat [Facebook](https://facebook.com/skolenigit) a [Twitter](https://twitter.com/skolenigit).
 
----
-
-2016 / [Školení GIT](https://skoleni-git.cz) / [Profesní web](https://ondrejsika.cz) / [Osobní web](https://ondrejsika.com)
-

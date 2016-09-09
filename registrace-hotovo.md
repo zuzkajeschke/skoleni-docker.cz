@@ -7,7 +7,7 @@ title: Školení GIT
     <center>
         <h1>Školení GIT</h1>
         <a href="/registrace.html" class="btn btn-large btn-success">Objednat školení</a>
-        <a href="#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
+        <a href="/#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
     </center>
 </div>
 

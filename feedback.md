@@ -37,8 +37,12 @@ title: Školení GIT
     <textarea class="form-control" name="feedback" rows="6" placeholder="Feedback"></textarea>
   </div>
   <div class="form-group">
-    <label for="positives">Návrhy zlepšení</label>
+    <label for="improvements">Návrhy zlepšení</label>
     <textarea class="form-control" name="improvements" rows="6" placeholder="Návrhy zlepšení"></textarea>
+  </div>
+  <div class="form-group">
+    <label for="reference">Doporučení (pokud máte zájem)</label>
+    <textarea class="form-control" name="reference" rows="6" placeholder="Doporučení, které můžu publikovat na webu"></textarea>
   </div>
   <div class="form-group">
     <div class="g-recaptcha" data-sitekey="6LfH2CkTAAAAAEoO12cOVGEiPJJ-I1P3DxKPdNnR"></div>

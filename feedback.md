@@ -47,6 +47,6 @@ title: Školení GIT
   <div class="form-group">
     <div class="g-recaptcha" data-sitekey="6LfH2CkTAAAAAEoO12cOVGEiPJJ-I1P3DxKPdNnR"></div>
   </div>
-  <button type="submit" class="btn btn-default">Registrovat</button>
+  <button type="submit" class="btn btn-default">Odeslat</button>
 </form>
 

@@ -38,7 +38,7 @@ V kurzu pro začátečníky si řekneme, co to vlastně verzování je a seznám
 >
 > __Ing. Vít Chmura, [WebNaut s.r.o.](http://webnaut.cz)__
 
-V pokročilém kurzu si ukážeme další možnosti práce s kódem, složitější workflow a pokročilý refaktoring kódu. Řekneme si o tom, jak si nastavit procesy ve firmě pro efektivní vývoj software v teamu, ukážeme si výhody a nevýhody jednotlivých workflow a Vy sami se rozhodnete, co Vám vyhovuje nejvíce. Ukážu Vám, jak si spustit privátní [Gitlab](https://gitlab.com) instanci na vlastní infrastruktuře. V případě zájmu Vám ukážu základy CI (Continues Integration) a automatického testování.
+V pokročilém kurzu Vám ukážu další možnosti práce s kódem, složitější workflow a pokročilý refaktoring kódu. Řekneme si o tom, jak si nastavit procesy ve firmě pro efektivní vývoj software v teamu, ukážeme si výhody a nevýhody jednotlivých workflow a Vy sami se rozhodnete, co Vám vyhovuje nejvíce. Ukážu Vám, jak si spustit privátní [Gitlab](https://gitlab.com) instanci na vlastní infrastruktuře. V případě zájmu Vám ukážu základy CI (Continues Integration) a automatického testování.
 
 
 ## Jak školení probíhá

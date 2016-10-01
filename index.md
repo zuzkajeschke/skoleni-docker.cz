@@ -58,7 +58,7 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena každého kurzu je __2000 CZK__ za osobu, v případě firemních školení je cena __9000 CZK__ za celou firmu.
+Cena každého kurzu je __2000 CZK__ za osobu, v případě firemních školení mě kontaktujte pro nacenění.
 
 Studenti, univerzity a neziskovky mají __50% slevu__.
 
@@ -74,7 +74,7 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 
 ### Ondrej Sika
 
-- <ondrej@ondrejsika.com>
+- <info@skoleni-git.cz>
 - <https://ondrejsika.cz>
 - +420 773 452 376
 

@@ -11,11 +11,13 @@ title: Školení GIT
     </center>
 </div>
 
+{% comment %}
 ## Aktualně vypsané termíny
 
 - [Školení GITu pro začátečníky - 24. 8. 2016](/pro-zacatecniky)
 - Školení GITu pro pokročilé - 31. 8. 2016
 
+{% endcomment %}
 
 ## O mně
 

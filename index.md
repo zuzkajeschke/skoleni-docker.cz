@@ -13,7 +13,7 @@ title: Školení GIT
 
 ## Aktualně vypsané termíny
 
-Momentálně žádné termíny vypsané nejsou. Pokud máte o školení zájem, můžete mě kontaktovat, nebo si rovnou [objednejte školení](http://goo.gl/forms/NKcqvdYXkMvEY0qw2).
+Momentálně žádné termíny vypsané nejsou. Pokud máte o školení zájem, můžete mě [kontaktovat](#kontakt), nebo si rovnou [objednejte školení](http://goo.gl/forms/NKcqvdYXkMvEY0qw2).
 
 
 ## O mně

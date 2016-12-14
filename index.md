@@ -1,15 +1,7 @@
 ---
 layout: default
-title: Školení GIT
+title: Školení Docker
 ---
-
-<div class="header">
-    <center>
-        <h1>Školení GIT</h1>
-        <a href="/registrace.html" class="btn btn-large btn-success">Objednat školení</a>
-        <a href="/#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
-    </center>
-</div>
 
 {% comment %}
 ## Aktualně vypsané termíny
@@ -73,7 +65,7 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 
 ### Ondrej Sika
 
-- <info@skoleni-git.cz>
+- <info@skoleni-docker.cz>
 - <https://ondrejsika.cz>
 - +420 773 452 376
 

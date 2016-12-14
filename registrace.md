@@ -3,15 +3,6 @@ layout: default
 title: Školení GIT
 ---
 
-<div class="header">
-    <center>
-        <h1>Školení GIT</h1>
-        <a href="/registrace.html" class="btn btn-large btn-success">Objednat školení</a>
-        <a href="/#kontakt" class="btn btn-large btn-success">Kontaktovat</a>
-    </center>
-</div>
-
-
 ## Registrace na školení
 
 <script src='https://www.google.com/recaptcha/api.js'></script>

@@ -7,6 +7,6 @@ title: Školení GIT
 
 Brzy se Vám ozvu.
 
-V případě jakýchkoliv dotazů pište na <info@skoleni-git.cz>
+V případě jakýchkoliv dotazů pište na <info@skoleni-docker.cz>
 
 

@@ -6,8 +6,7 @@ title: Školení GIT
 ## Registrace na školení
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://former.sikaapp.cz/submit/1/KHbpyCBldmoBTMFJsABzUcpZqvRMjBkO/">
-  <div class="form-group">
+<form action="https://former.sikaapp.cz/submit/3/czeETckEIDyLDotAdqvHVcRkGOXKsgHG/">
   <div class="form-group">
     <label for="name">Jméno</label>
     <input type="text" class="form-control" name="name" id="name" placeholder="Jmeno">
@@ -25,7 +24,7 @@ title: Školení GIT
     <textarea class="form-control" name="message" rows="3" placeholder="Zpráva"></textarea>
   </div>
   <div class="form-group">
-    <div class="g-recaptcha" data-sitekey="6LfH2CkTAAAAAEoO12cOVGEiPJJ-I1P3DxKPdNnR"></div>
+    <div class="g-recaptcha" data-sitekey="6LfI-Q4UAAAAAM5WQs0Or6kKfzafTXAxzKQYKjxv"></div>
   </div>
   <button type="submit" class="btn btn-default">Registrovat</button>
 </form>

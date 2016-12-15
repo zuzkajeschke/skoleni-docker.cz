@@ -6,7 +6,7 @@ title: Školení GIT
 ## Zpětná vazba
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://former.sikaapp.cz/submit/2/FJiCSDOXqMFyMGIdqrtLYjJALjZNosHf/">
+<form action="https://former.sikaapp.cz/submit/4/cKtoSMNlhxOCkzzTUSJgOzNYZueKFUyI/">
   <div class="form-group">
     <label for="name">Jméno</label>
     <input type="text" class="form-control" name="name" id="name" placeholder="Jmeno">
@@ -36,7 +36,7 @@ title: Školení GIT
     <textarea class="form-control" name="reference" rows="6" placeholder="Doporučení, které můžu publikovat na webu"></textarea>
   </div>
   <div class="form-group">
-    <div class="g-recaptcha" data-sitekey="6LfH2CkTAAAAAEoO12cOVGEiPJJ-I1P3DxKPdNnR"></div>
+    <div class="g-recaptcha" data-sitekey="6LfI-Q4UAAAAAM5WQs0Or6kKfzafTXAxzKQYKjxv"></div>
   </div>
   <button type="submit" class="btn btn-default">Odeslat</button>
 </form>

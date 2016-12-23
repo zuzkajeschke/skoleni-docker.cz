@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Školení GIT
+title: Zpětná vazba na Školení Docker
 ---
 
 ## Zpětná vazba

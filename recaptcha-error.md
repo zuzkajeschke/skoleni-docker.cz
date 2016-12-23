@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Školení GIT
+title: Školení Docker
 ---
 
 ## Recaptcha validace selhala

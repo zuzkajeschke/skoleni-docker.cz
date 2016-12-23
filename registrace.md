@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Školení GIT
+title: Registrace na Školení Dockeru
 ---
 
 ## Registrace na školení

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Školení GIT
+title: Registrace na Školení Dockeru
 ---
 
 ## Registrace proběhla úspešne
 
-Brzy se Vám ozvu.
+Děkuji za Váš zájem, brzy se Vám ozvu.
 
 V případě jakýchkoliv dotazů pište na <info@skoleni-docker.cz>
 

@@ -14,9 +14,13 @@ Momentálně žádné termíny vypsané nejsou. Pokud máte o školení zájem, 
 
 Jmenuji se [Ondrej Sika](https://ondrejsika.com), vyvijim software pro [Slush Pool](https://slushpool.com) a [školím](https://sedu.cz). Skolim prevazne Docker, [GIT](https://skoleni-git.cz) a ekosystém okolo, ktery s Dockerem velmi uzce souvisi. Další školení, která můžete najít na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz) a [sedu.cz](https://sedu.cz).
 
+<!--
+
 > "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týka mne, tak školení padlo na úrodnou půdu. Teším se na další spolupráci."
 >
 > __Bc. Ondřej Fous, DiS., Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
+
+-->
 
 Všechny kurzy vedu osobně. S Dockerem mám více než dva roky zkušeností v rámci komerčního vývoje software. Docker pouzivam jak ve vyvoji tak i
 na produkci a nedovedu si jiz bez nej praci predstavit.
@@ -38,9 +42,13 @@ Ukazeme si take jak dostat Docker do produkniho prostedi pro ostry provoz.
 
 Skoleni probiha formou workshopu, vse si prakticky vyzkousite. Verim, ze prakticke zkusenosti jsou to nejepsi, co si muzete s kazdeho skoleni odnest. Skoleni probihaji bud v me kancelari, pri velkem poctu zajemcu ve skolici mistnosti. Pri firemnim skoleni samozrejme prijedu k Vam do kancelare.
 
+<!--
+
 > "Školení s panem Sikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Sikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
 >
 > __Lukáš Blažíček__
+
+-->
 
 Všechny materiály z predchozich školení jsou volně k dispozici na [github.com/skoleni-docker](https://github.com/skoleni-docker) a na mém [Speakerdeck](https://speakerdeck.com/ondrejsika).
 

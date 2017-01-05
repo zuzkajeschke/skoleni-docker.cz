@@ -10,6 +10,11 @@ Momentálně žádné termíny vypsané nejsou. Pokud máte o školení zájem, 
 
 {% endcomment %}
 
+## Co je Docker
+
+Docker je kontejnerizační engine, který zajišťuje běh aplikací ve striktně definovaném a odděleném prostředí. Výhody používání Dockeru jsou plná kontrola nad prostředím každé aplikace (jedna může bězět na Debianu a druhá na Cent OS na jednom hostu) a také bezpečnost, protozě apliace vidí jen kontainer a to co jim povolíte (porty, filesystem, ... na hostu).
+
+
 ## O mně
 
 Jmenuji se [Ondřej Šika](https://ondrejsika.com), vyvíjím software pro společnost [Slush Pool](https://slushpool.com) a [školím](https://sedu.cz). Školím převážně Docker, [GIT](https://skoleni-git.cz) a ekosystém okolo, který s Dockerem velmi úzce souvisí. Další školení naleznete na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz) a [sedu.cz](https://sedu.cz).

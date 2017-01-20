@@ -3,12 +3,11 @@ layout: default
 title: Školení Docker
 ---
 
-{% comment %}
 ## Aktualně vypsané termíny
 
-Momentálně žádné termíny vypsané nejsou. Pokud máte o školení zájem, můžete mě [kontaktovat](#kontakt), nebo si rovnou [objednejte školení](http://goo.gl/forms/NKcqvdYXkMvEY0qw2).
+- [__Workshop Dockeru pro začátečníky__, 15. 3. 2017](https://sedu.cz/terminy/2017-03-15-workshop-dockeru-pro-zacatecniky.html)
 
-{% endcomment %}
+Pokud máte zájem o firemní školení nebo jiný termín, kontatkujte nás na <info@sedu.cz>.
 
 ## Co je Docker
 

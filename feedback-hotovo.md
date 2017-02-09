@@ -5,6 +5,6 @@ title: Zpětná vazba na Školení Dockeru
 
 ## Děkuji za zpětnou vazbu
 
-V případě jakýchkoliv dotazů pište na <info@skoleni-docker.cz>
+V případě jakýchkoliv dotazů pište na <info@sedu.cz>
 
 

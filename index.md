@@ -77,7 +77,7 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 
 ### Ondrej Sika
 
-- <info@skoleni-docker.cz>
+- <info@sedu.cz>
 - <https://ondrejsika.cz>
 - +420 773 452 376
 

@@ -7,6 +7,6 @@ title: Registrace na Školení Dockeru
 
 Děkuji za Váš zájem, brzy se Vám ozvu.
 
-V případě jakýchkoliv dotazů pište na <info@skoleni-docker.cz>
+V případě jakýchkoliv dotazů pište na <info@sedu.cz>
 
 

@@ -77,8 +77,8 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 
 ### Ondrej Sika
 
-- <info@sedu.cz>
-- <https://ondrejsika.cz>
+- <ondrej@ondrejsika.com>
+- <https://byjsika.cz>
 - +420 773 452 376
 
 Najdete mě také na sociálních sítích:

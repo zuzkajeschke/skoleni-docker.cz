@@ -20,7 +20,7 @@ Docker je kontejnerizační engine, který zajišťuje běh aplikací ve striktn
 
 ## O mně
 
-Jmenuji se [Ondřej Šika](https://ondrejsika.com), vyvíjím software pro společnost [Slush Pool](https://slushpool.com) a [školím](https://sedu.cz). Školím převážně Docker, [GIT](https://skoleni-git.cz) a ekosystém okolo, který s Dockerem velmi úzce souvisí. Další školení naleznete na mém profesním webu [ondrejsika.cz](https://ondrejsika.cz) a [sedu.cz](https://sedu.cz).
+Jmenuji se __Ondřej Šika__, vyvíjím software pro [Slush Pool](https://slushpool.com) a školím. Školím převážně Docker, [GIT a Continues Integraqtion](https://skoleni-git.cz), který s Dockerem velmi úzce souvisí. Další školení naleznete na mém profesním webu [bysika.cz](https://bysika.cz).
 
 <!--
 
@@ -82,13 +82,13 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 ### Ondrej Sika
 
 - <ondrej@ondrejsika.com>
-- <https://byjsika.cz>
+- <https://bysika.cz>
 - +420 773 452 376
 
 Najdete mě také na sociálních sítích:
 
+- [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
 - [LinkedIn](https://www.linkedin.com/in/ondrejsika)
-- [Facebook](https://facebook.com/sikaondrej2)
 - [Twitter](https://twitter.com/ondrejsika)
 - [Github](https://github.com/ondrejsika)
 

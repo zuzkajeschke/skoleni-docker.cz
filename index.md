@@ -5,9 +5,13 @@ title: Školení Docker
 
 ## Aktualně vypsané termíny
 
-- [__Workshop Dockeru pro začátečníky__, 15. 3. 2017](https://sedu.cz/terminy/2017-03-15-workshop-dockeru-pro-zacatecniky.html)
+- __Docker, Compose & Swarm__ (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017
 
-Pokud máte zájem o firemní školení nebo jiný termín, kontatkujte nás na <info@sedu.cz>.
+<!--
+- [__Workshop Dockeru pro začátečníky__, 15. 3. 2017](https://sedu.cz/terminy/2017-03-15-workshop-dockeru-pro-zacatecniky.html)
+-->
+
+[Registrujte se](/registrace.html). Pokud máte zájem o firemní školení nebo jiný termín, napiste na <ondrej@ondrejsika.com>.
 
 ## Co je Docker
 

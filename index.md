@@ -35,16 +35,19 @@ na produkci a nedovedu si již bez něj práci představit.
 
 ## Co Vás naučím
 
-Společnou řeč najdu jak se začátečníky, tak s pokročilými.
+Ve dvoudenním kurzu si projdeme tyto věci:
 
-Školení Vám připravím na míru, řekneme si základní úvod a poté probereme, jak Docker může nejvíce pomoci Vaší firmě. Najdeme místo, kde s Dockerem můžete začít experimentovat, aby to neohrozilo Vaše aktuální produkční prostředí a zároveň získali cenné zkušenosti s prací s Dockerem a dále mohli tento projekt nasadit napříč Vaší firemní infrastrukturou.
-
-Řekneme si, co je hlavní myšlenka Dockeru a proč má smysl jej používat. Ukážeme si základní práci s obrazy a kontejnery, řekneme si rozdíly mezi nimi a jak se jednotlivé kontejnery spouštějí.
-
-Ukážeme si, jak efektivně spravovat a distribuovat kontejnery a Vaše aplikace, jak funguje Docker Hub a jak pracovat s aplikací, která používá více kontejnerů.
-
-Ukážeme si také, jak dostat Docker do produkčního prostředí pro ostrý provoz.
-
+- Co je Docker, jeho vlastnosti, výhody a nevýhody
+- Jak Docker nainstalovat a základní pojmy
+- Docker registry a spouštění kontajneru
+- Stavení vlastních obrazů
+- Ukážu jak spravovat multikontajnerove aplikace v Docker Compose
+- Docker Machine - nástroj na management Docker hostů
+- Docker Swarm - cluster pro Docker aplikace
+- Deployment aplikaci do Swarmu
+- Nastavit Docker pro produkční používání
+- Monitoring a správu kontejnerů
+- Základy využití v CI (Continues Itegration)
 
 ## Jak školení probíhá
 
@@ -65,7 +68,7 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena jednodenního kurzu je __4000 CZK__ za osobu, dvoudenniho __8000 CZK__ a v případě firemních školení je to __13000 CZK__ za školící den. Na rozsahu kurzu se předem domluvíme.
+Cena dvoudenního kurzu je __8000 CZK__ na osobu, v případě firemních školení je to __13000 CZK__ za školící den. Na rozsahu kurzu se předem domluvíme.
 
 Studenti, univerzity a neziskové organizace mají __50% slevu__.
 

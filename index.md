@@ -100,3 +100,9 @@ Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlási
 
 Nebo můžete sledovat [Facebook](https://facebook.com/seducz) a [Twitter](https://twitter.com/seducz).
 
+
+## Veřejné přednášky
+
+Občas na téma Dockeru přednáším, seznam prednášek v sekci [/talks](/talks)
+
+

@@ -5,11 +5,8 @@ title: Školení Docker
 
 ## Aktualně vypsané termíny
 
-- [__Docker, Compose & Swarm__](https://sedu.cz/terminy/skoleni-dockeru-praha-22-11-2017.html) (pro začátečníky a mírně pokročilé) - 22. - 23. 11. 2017, cena: 8000 CZK
+- __Docker, Compose & Swarm__ (pro začátečníky a mírně pokročilé, Praha, __29. - 30. 1. 2018__, cena: 8000 CZK
 
-<!--
-- [__Workshop Dockeru pro začátečníky__, 15. 3. 2017](https://sedu.cz/terminy/2017-03-15-workshop-dockeru-pro-zacatecniky.html)
--->
 
 [Registrujte se](/registrace.html). Pokud máte zájem o firemní školení nebo jiný termín, napiste na <ondrej@ondrejsika.com>.
 

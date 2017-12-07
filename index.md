@@ -65,9 +65,9 @@ Po absolvování školení obdržíte veřejně auditovatelný certifikát o ú�
 
 ## Cena
 
-Cena dvoudenního kurzu je __8000 CZK__ na osobu, v případě firemních školení je to __13000 CZK__ za školící den. Na rozsahu kurzu se předem domluvíme.
+Cena dvoudenního kurzu je __8000 CZK__ na osobu, v případě firemních školení je to __15000 CZK__ za školící den. Na rozsahu kurzu se předem domluvíme, většinou trvá 3 dny.
 
-Studenti, univerzity a neziskové organizace mají __50% slevu__.
+__Studenti__, __univerzity__ a __neziskové organizace__ mají __50% slevu__.
 
 Lze domluvit například skupinové slevy, ceny se za určitých okolností dají určitě nějak zvýhodnit. V případě zájmu nebo dotazů mě neváhejte kontaktovat.
 

@@ -6,7 +6,7 @@ title: Registrace na Školení Dockeru
 ## Registrace na školení
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<form action="https://former.sikaapp.cz/submit/3/czeETckEIDyLDotAdqvHVcRkGOXKsgHG/">
+<form action="https://former.xsika.cz/submit/3/czeETckEIDyLDotAdqvHVcRkGOXKsgHG/">
   <div class="form-group">
     <label for="name">Jméno</label>
     <input type="text" class="form-control" name="name" id="name" placeholder="Jmeno">

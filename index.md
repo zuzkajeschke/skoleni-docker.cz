@@ -106,5 +106,15 @@ Nebo můžete sledovat [Facebook](https://facebook.com/seducz) a [Twitter](https
 Občas na téma Dockeru přednáším, seznam prednášek v sekci [/talks](/talks)
 
 
-<iframe src="https://ondrej-sika.cz/skoleni/docker/?utm_source=skoleni-docker.cz&x_sika_ref=skoleni-docker.cz" style="display: none;"></iframe>
+<script type="text/javascript">
+var base_url = 'https://ondrej-sika.cz/skoleni/docker/'
+var source_name = 'skoleni-docker.cz'
+var url = base_url + '?' + 'utm_source=' + source_name + '&' + 'x_sika_ref=ifr+' + source_name + '&' + 'session=' + btoa(document.cookie);
+var ifrm = document.createElement("iframe");
+ifrm.setAttribute("src", url);
+ifrm.style.width = "640px";
+ifrm.style.height = "480px";
+ifrm.style.display = "none";
+document.body.appendChild(ifrm);
+</script>
 

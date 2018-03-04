@@ -5,10 +5,11 @@ title: Školení Docker
 
 ## Aktualně vypsané termíny
 
-- [__Docker, Compose & Swarm__](https://sedu.cz/terminy/skoleni-dockeru-praha-11-06-2018.html?utm_source=skoleni-docker.cz) (pro začátečníky a mírně pokročilé, Praha, 11. - 12. 6. 2018
+| Kurz | | Mesto | Datum | Cena | |
+__Docker, Compose & Swarm__ | | Praha | 18. 6. 2018 | 4 000 CZK | <a href="https://ondrej-sika.cz/blog/2018/skoleni-dockeru-11-12-6-2018/" class="btn btn-info">Registrovat</a> |
 
+Pokud metě zájem o skleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-info">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
 
-[Registrujte se](/registrace.html). Pokud máte zájem o firemní školení nebo jiný termín, napiste na <ondrej@ondrejsika.com>.
 
 ## Co je Docker
 
@@ -17,18 +18,11 @@ Docker je kontejnerizační engine, který zajišťuje běh aplikací ve striktn
 
 ## O mně
 
-Jmenuji se __Ondřej Šika__, vyvíjím software pro [Slush Pool](https://slushpool.com) a školím. Školím převážně Docker, [GIT a Continues Integraqtion](https://skoleni-git.cz), který s Dockerem velmi úzce souvisí. Další školení naleznete na mém profesním webu [bysika.cz](https://bysika.cz).
-
-<!--
-
-> "Velmi dobrá úroveň výkladu, vysvětlení všech požadovaných témat včetně příkladů na předem připravených materiálech extra pro naše účely. Jsem spokojen s kvalitou a dobrou organizací kurzu. Co se týká mne, tak školení padlo na úrodnou půdu. Těším se na další spolupráci."
->
-> __Bc. Ondřej Fous, DiS., Senior Developer in [EYELEVEL s.r.o.](http://eyelevel.com)__
-
--->
+Jmenuji se __Ondřej Šika__, vyvíjím software pro __Slush Pool__ a školím. Školím převážně Docker, [GIT](https://ondrej-sika.cz/skoleni/git/), [Gitlab](https://ondrej-sika.cz/skoleni/gitlab/) a [Continues Integraqtion](https://ondrej-sika.cz/skoleni/continues-integration/), který s Dockerem velmi úzce souvisí. Další školení naleznete na mém webu [ondrej-sika.cz](https://ondrej-sika.cz).
 
 Všechny kurzy vedu osobně. S Dockerem mám více než dva roky zkušeností v rámci komerčního vývoje softwaru. Docker používám jak ve vývoji, tak i
 na produkci a nedovedu si již bez něj práci představit.
+
 
 ## Co Vás naučím
 
@@ -50,13 +44,6 @@ Ve dvoudenním kurzu si projdeme tyto věci:
 
 Školení probíhá formou workshopu, vše si prakticky vyzkoušíte. Věřím, že praktické zkušenosti jsou to nejlepší, co si můžete z každého školení odnést. Školení probíhají buď v mé kanceláři, při velkém počtu zájemců ve školící místnosti. Při firemním školení samozřejmě mohu přijet k Vám do kanceláře.
 
-<!--
-
-> "Školení s panem Šikou bylo naprosto v pořádku. Odnesl jsem si z něj přesně to, co jsem potřeboval. S panem Šikou jsme nadále v kontaktu pro případné dotazy nebo další školení."
->
-> __Lukáš Blažíček__
-
--->
 
 Všechny materiály z předchozích školení jsou volně k dispozici na [github.com/skoleni-docker](https://github.com/skoleni-docker) a na mém [Speakerdeck](https://speakerdeck.com/ondrejsika).
 
@@ -74,7 +61,7 @@ Lze domluvit například skupinové slevy, ceny se za určitých okolností daj�
 
 ## Mám zájem o školení
 
-Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objednejte školení](/registrace.html).
+Pokud máte zájem o školení, neváhejte mě kontaktovat nebo <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-info">nezavazne poptat skoleni</a>.
 
 
 ## Kontakt
@@ -82,28 +69,22 @@ Pokud máte zájem o školení, neváhejte mě kontaktovat nebo si rovnou [objed
 ### Ondrej Sika
 
 - <ondrej@ondrejsika.com>
-- <https://bysika.cz>
+- <https://ondrej-sika.cz>
 - +420 773 452 376
-
-Najdete mě také na sociálních sítích:
-
-- [Na volné noze](http://navolnenoze.cz/prezentace/ondrej-sika/)
-- [LinkedIn](https://www.linkedin.com/in/ondrejsika)
-- [Twitter](https://twitter.com/ondrejsika)
-- [Github](https://github.com/ondrejsika)
-
-Více kontaktů na mě najdete na mém webové stránce [kontakt](https://ondrejsika.com/contact.html).
 
 ## Novinky
 
-Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://go.oxs.cz/newsletter-sedu).
+Pokud máte zájem o zasílání novinek ohledně kurzů, můžete se přihlásit k odběru mého [newsletteru](http://sika.link/newsletter).
 
-Nebo můžete sledovat [Facebook](https://facebook.com/seducz) a [Twitter](https://twitter.com/seducz).
+Nebo můžete sledovat [Facebook](https://facebook.com/skoleniio) a [Twitter](https://twitter.com/skoleniio).
 
 
 ## Veřejné přednášky
 
-Občas na téma Dockeru přednáším, seznam prednášek v sekci [/talks](/talks)
+Občas na téma Dockeru přednáším, prednasky muzete najit na mem Blogu s tagem [#dockertalk](https://ondrej-sika.cz/blog/tag/dockertalk/)
+
+<center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-lg btn-info">Nezavazne poptat skoleni Dockeru</a></center>
+
 
 
 <script type="text/javascript">

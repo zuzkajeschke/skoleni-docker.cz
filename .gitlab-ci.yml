@@ -1,0 +1,58 @@
+variables:
+    NAME: skolenidockercz
+    SSH: sshpass -e ssh -o StrictHostKeyChecking=no root@bar.l.oxs.cz -p 22202
+    TRAEFIK_DEV: -l traefik.frontend.rule=Host:$NAME-$CI_COMMIT_REF_NAME.b.h4y.cz -l traefik.port=80 -l traefix.port=443 -l traefik.frontend.entryPoints=http,https
+    TRAEFIK_PROD: -l traefik.frontend.rule=Host:skoleni-git.cz,www.skoleni-git.cz -l traefik.port=80 -l traefix.port=443 -l traefik.frontend.entryPoints=http,https
+
+stages:
+    - build
+    - deploy_dev
+    - deploy_prod
+
+job_build:
+    stage: build
+    script:
+        - docker build -t reg.istry.cz/$NAME:$CI_PIPELINE_ID .
+        - docker push reg.istry.cz/$NAME:$CI_PIPELINE_ID
+
+job_deploy_dev:
+    image: ondrejsika/ci
+    stage: deploy_dev
+    script:
+        - $SSH docker rm -f $NAME-$CI_COMMIT_REF_NAME || true
+        - $SSH docker run $TRAEFIK_DEV --name=$NAME-$CI_COMMIT_REF_NAME -d reg.istry.cz/$NAME:$CI_PIPELINE_ID
+    environment:
+        name: dev-$CI_COMMIT_REF_NAME
+        url: https://$NAME-$CI_COMMIT_REF_NAME.b.h4y.cz
+        on_stop: job_deploy_dev_stop
+
+job_deploy_dev_stop:
+  image: ondrejsika/ci
+  stage: deploy_dev
+  when: manual
+  script:
+        - $SSH docker rm -f $NAME-$CI_COMMIT_REF_NAME || true
+  environment:
+    name: dev-$CI_COMMIT_REF_NAME
+    action: stop
+
+job_deploy_prod:
+    image: ondrejsika/ci
+    stage: deploy_prod
+    when: manual
+    script:
+        - $SSH docker rm -f $NAME-production || true
+        - $SSH docker run $TRAEFIK_PROD --name=$NAME-$CI_COMMIT_REF_NAME -d reg.istry.cz/$NAME:$CI_PIPELINE_ID
+    environment:
+        name: production
+        url: https://skoleni-docker.cz
+
+job_deploy_prod_stop:
+  image: ondrejsika/ci
+  stage: deploy_prod
+  when: manual
+  script:
+        - sshpass -e ssh -o StrictHostKeyChecking=no $SSH docker rm -f $NAME-prod || true
+  environment:
+    name: production
+    action: stop

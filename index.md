@@ -5,6 +5,7 @@ title: Školení Docker
 
 ## Aktualně vypsané termíny
 
+
 | Kurz | | Mesto | Datum | Cena | |
 __Docker, Compose & Swarm__ | | Praha | 18. 6. 2018 | 4 000 CZK | <a href="https://ondrej-sika.cz/blog/2018/skoleni-dockeru-11-12-6-2018/" class="btn btn-info">Registrovat</a> |
 

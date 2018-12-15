@@ -5,11 +5,10 @@ title: Školení Docker
 
 ## Aktualně vypsané termíny
 
+{% include terminy.html %}
 
-| Kurz | | Mesto | Datum | Cena | |
-__Docker, Compose & Swarm__ | | Praha | 18. 6. 2018 | 4 000 CZK | <a href="https://ondrej-sika.cz/blog/2018/skoleni-dockeru-11-12-6-2018/" class="btn btn-info">Registrovat</a> |
 
-Pokud metě zájem o skleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-info">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
+Pokud máte zájem o skoleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
 
 
 ## Co je Docker
@@ -62,7 +61,7 @@ Lze domluvit například skupinové slevy, ceny se za určitých okolností daj�
 
 ## Mám zájem o školení
 
-Pokud máte zájem o školení, neváhejte mě kontaktovat nebo <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-info">nezavazne poptat skoleni</a>.
+Pokud máte zájem o školení, neváhejte mě kontaktovat nebo <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-primary">nezavazne poptat skoleni</a>.
 
 
 ## Kontakt
@@ -84,7 +83,7 @@ Nebo můžete sledovat [Facebook](https://facebook.com/skoleniio) a [Twitter](ht
 
 Občas na téma Dockeru přednáším, prednasky muzete najit na mem Blogu s tagem [#dockertalk](https://ondrej-sika.cz/blog/tag/dockertalk/)
 
-<center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-lg btn-info">Nezavazne poptat skoleni Dockeru</a></center>
+<center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-lg btn-primary">Nezavazne poptat skoleni Dockeru</a></center>
 
 
 

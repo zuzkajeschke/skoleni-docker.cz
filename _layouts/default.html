@@ -24,8 +24,8 @@ layout: base
     }
 
     h1 {
-        color: #394D54;
-        font-size: 50px;
+        color: black;
+        font-size: 60px;
     }
 
     .site-header a:hover {
@@ -35,11 +35,22 @@ layout: base
     h2 {
         background: #E7E7E7;
         padding: 10px;
-        color: #394D54;
+        color: black;
     }
 
     blockquote {
         font-size: 14px;
+    }
+    .btn-right {
+
+    }
+    .footer-p {
+        text-align: center;
+
+    }
+    .page-footer {
+        background-color: #5bc0de;
+        padding: 20px 0px 10px;
     }
 </style>
 <div class="container-fluid header-container">
@@ -55,10 +66,10 @@ layout: base
                         class="fab fa-docker"></i></span>
                         <p style="color: #394D54">by <a href="https://ondrej-sika.cz"><b>Ondrej Sika</b></a> | <a
                                 href="https://ondrej-sika.cz/skoleniio">Skoleni.io</a></p>
-                        <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-info">Nezávazně
+                        <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary">Nezávazně
                             poptat
                             školení</a>
-                        <a href="/#kontakt" class="btn btn-large btn-info">Kontaktovat</a>
+                        <a href="/#kontakt" class="btn btn-large btn-primary">Kontaktovat</a>
                     </div>
                 </div>
 
@@ -77,11 +88,17 @@ layout: base
 
             {{ content }}
 
-            <hr/>
+        </div>
+    </div>
+</div>
 
-            <p><strong>Školení Docker</strong> by <a href="https://ondrej-sika.cz">Ondrej Sika</a></p>
 
-
+<div class="container-fluid header-container">
+    <div class="row">
+        <div class="col-md-12">
+            <footer class="page-footer">
+                <p class="footer-p"><strong>Školení Docker</strong> by <a href="https://ondrej-sika.cz">Ondrej Sika</a></p>
+            </footer>
         </div>
     </div>
 </div>

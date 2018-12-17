@@ -10,11 +10,13 @@ title: Školení Docker
 
 Pokud máte zájem o skoleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
 
+<hr class="line">
 
 ## Co je Docker
 
 Docker je kontejnerizační engine, který zajišťuje běh aplikací ve striktně definovaném a odděleném prostředí. Výhody používání Dockeru jsou plná kontrola nad prostředím každé aplikace (jedna může bězět na Debianu a druhá na Cent OS na jednom hostu) a také bezpečnost, protozě apliace vidí jen kontainer a to co jim povolíte (porty, filesystem, ... na hostu).
 
+<hr class="line">
 
 ## O mně
 
@@ -23,6 +25,7 @@ Jmenuji se __Ondřej Šika__, vyvíjím software pro __Slush Pool__ a školím. 
 Všechny kurzy vedu osobně. S Dockerem mám více než dva roky zkušeností v rámci komerčního vývoje softwaru. Docker používám jak ve vývoji, tak i
 na produkci a nedovedu si již bez něj práci představit.
 
+<hr class="line">
 
 ## Co Vás naučím
 
@@ -40,6 +43,8 @@ Ve dvoudenním kurzu si projdeme tyto věci:
 - Monitoring a správu kontejnerů
 - Základy využití v CI (Continues Itegration)
 
+<hr class="line">
+
 ## Jak školení probíhá
 
 Školení probíhá formou workshopu, vše si prakticky vyzkoušíte. Věřím, že praktické zkušenosti jsou to nejlepší, co si můžete z každého školení odnést. Školení probíhají buď v mé kanceláři, při velkém počtu zájemců ve školící místnosti. Při firemním školení samozřejmě mohu přijet k Vám do kanceláře.
@@ -49,6 +54,7 @@ Všechny materiály z předchozích školení jsou volně k dispozici na [github
 
 Po absolvování školení obdržíte veřejně auditovatelný certifikát o účasti.
 
+<hr class="line">
 
 ## Cena
 
@@ -58,11 +64,13 @@ __Studenti__, __univerzity__ a __neziskové organizace__ mají __50% slevu__.
 
 Lze domluvit například skupinové slevy, ceny se za určitých okolností dají určitě nějak zvýhodnit. V případě zájmu nebo dotazů mě neváhejte kontaktovat.
 
+<hr class="line">
 
 ## Mám zájem o školení
 
 Pokud máte zájem o školení, neváhejte mě kontaktovat nebo <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-primary">nezavazne poptat skoleni</a>.
 
+<hr class="line">
 
 ## Kontakt
 
@@ -84,7 +92,6 @@ Nebo můžete sledovat [Facebook](https://facebook.com/skoleniio) a [Twitter](ht
 Občas na téma Dockeru přednáším, prednasky muzete najit na mem Blogu s tagem [#dockertalk](https://ondrej-sika.cz/blog/tag/dockertalk/)
 
 <center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-lg btn-primary">Nezavazne poptat skoleni Dockeru</a></center>
-
 
 
 <script type="text/javascript">

@@ -1,29 +1,61 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8" />
-        <title>{{page.title}}</title>
-        <link rel="shortcut icon" type="image/png"  href="/favicon.png" />
-        <script src="/static/main.js"></script>
-        <link rel="stylesheet" href="/static/bootstrap.css">
-        <link rel="stylesheet" href="/static/style.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script type="text/javascript">
-            window.smartlook||(function(d) {
-            var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
-            var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
-            c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
-            })(document);
-            smartlook('init', 'f10a71a44c2eedf2a1e7286d4c3bc36c8e4a4ea6');
-        </script>
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
-    </head>
-    <body>
-        {{ content }}
+<head>
+    <meta charset="utf-8"/>
+    <title>{{page.title}}</title>
+    <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+    <script src="/static/main.js"></script>
+    <link rel="stylesheet" href="/static/bootstrap.css">
+    <link rel="stylesheet" href="/static/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript">
+        window.smartlook || (function (d) {
+            var o = smartlook = function () {
+                o.api.push(arguments)
+            }, h = d.getElementsByTagName('head')[0];
+            var c = d.createElement('script');
+            o.api = new Array();
+            c.async = true;
+            c.type = 'text/javascript';
+            c.charset = 'utf-8';
+            c.src = 'https://rec.smartlook.com/recorder.js';
+            h.appendChild(c);
+        })(document);
+        smartlook('init', 'f10a71a44c2eedf2a1e7286d4c3bc36c8e4a4ea6');
+    </script>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+</head>
+<body>
+{{ content }}
 
-        {% include analytics.html code='UA-39461955-7' %}
-        {% include cookie_law.html %}
-        {% include leady.html code='4HkuP9U3lPoojyKu' %}
-    </body>
+{% include analytics.html code='UA-39461955-7' %}
+{% include cookie_law.html %}
+{% include leady.html code='4HkuP9U3lPoojyKu' %}
+<div class="container-fluid footer">
+    <div class="container">
+        <div class="container-flex">
+            <div class="d-flex row text-white">
+                <div class="col-md-4 col-sm-10">
+                    <h4>Kontakty</h4>
+                    <h5>Ondřej Sika</h5>
+                    <a href="mailto:ondrej@ondrejsika.com">ondrej@ondrejsika.com</a><br>
+                    <a href="https://ondrej-sika.cz">ondrej-sika.cz</a><br>
+                    <a href="tel:+420773452376">+420 773 452 376</a>
+                </div>
+
+                <div class="col-md-4 col-sm-10">
+                    <h4>Nejoblíbenější kurzy</h4>
+                    <a href="#" class="git-footer">Git</a><br>
+                    <a href="#">Docker</a><br>
+                </div>
+
+                <div class="col-md-4 col-sm-10">
+                    #
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
 </html>

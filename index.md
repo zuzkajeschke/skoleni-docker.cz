@@ -8,7 +8,7 @@ title: Školení Docker
 {% include terminy.html %}
 
 
-Pokud máte zájem o skoleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
+Pokud máte zájem o skoleni u vas ve firme, <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary btn-outline-primary">nezávazně jej poptejte</a> nebo mi napište email na <ondrej@ondrejsika.com>
 
 <hr class="line">
 
@@ -68,7 +68,7 @@ Lze domluvit například skupinové slevy, ceny se za určitých okolností daj�
 
 ## Mám zájem o školení
 
-Pokud máte zájem o školení, neváhejte mě kontaktovat nebo <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-primary">nezavazne poptat skoleni</a>.
+Pokud máte zájem o školení, neváhejte mě kontaktovat nebo <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-primary btn-outline-primary">nezavazne poptat skoleni</a>.
 
 <hr class="line">
 
@@ -91,7 +91,7 @@ Nebo můžete sledovat [Facebook](https://facebook.com/skoleniio) a [Twitter](ht
 
 Občas na téma Dockeru přednáším, prednasky muzete najit na mem Blogu s tagem [#dockertalk](https://ondrej-sika.cz/blog/tag/dockertalk/)
 
-<center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-lg btn-primary">Nezavazne poptat skoleni Dockeru</a></center>
+<center style="margin: 30px 0 40px"><a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-lg btn-primary ">Nezavazne poptat skoleni Dockeru</a></center>
 
 
 <script type="text/javascript">

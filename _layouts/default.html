@@ -39,21 +39,19 @@ layout: base
         font-family: 'Source Code Pro', monospace;
     }
 
-    .footer-p {
-        text-align: center;
-
-    }
-    .page-footer {
-        background-color: #5bc0de;
-        padding: 20px 0px 10px;
-    }
     .line {
-    height: 1px;
-    background-color: #5bc0de;
-    opacity: 0.3;
-    margin-top: 10px;
-    margin-bottom: 30px;
-}
+        height: 1px;
+        background-color: #5bc0de;
+        opacity: 0.3;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .footer {
+        background-color: #5bc0de;
+        padding-top: 1rem;
+        padding-bottom: 2em;
+    }
 </style>
 <div class="container-fluid header-container">
     <div class="header" style="margin-top: 0px;">
@@ -68,15 +66,16 @@ layout: base
                         class="fab fa-docker"></i></span>
                         <p>by <a href="https://ondrej-sika.cz" style="color: black"><b>Ondrej Sika</b></a> | <a
                                 href="https://ondrej-sika.cz/skoleniio" style="color:black">Skoleni.io</a></p>
-                        <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary">Nezávazně
+                        <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary mb-2">Nezávazně
                             poptat
                             školení</a>
-                        <a href="/#kontakt" class="btn btn-large btn-primary">Kontaktovat</a>
+                        <a href="/#kontakt" class="btn btn-large btn-primary mb-2">Kontaktovat</a>
+
                     </div>
                 </div>
 
                 <div class="col-md-3">
-                    <img src="/static/docker-brands.svg" class="img-responsive">
+                    <img src="/static/docker-brands.svg" class="img-responsive d-none d-md-block">
                 </div>
             </div>
         </div>
@@ -93,15 +92,3 @@ layout: base
         </div>
     </div>
 </div>
-
-
-<div class="container-fluid header-container">
-    <div class="row">
-        <div class="col-md-12">
-            <footer class="page-footer">
-                <p class="footer-p"><strong>Školení Docker</strong> by <a href="https://ondrej-sika.cz">Ondrej Sika</a></p>
-            </footer>
-        </div>
-    </div>
-</div>
-

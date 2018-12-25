@@ -6,7 +6,7 @@ layout: base
 
 
     .header {
-        background-color: #5bc0de;
+        background-color: #0070ec;
         margin-top: 0px;
         margin-bottom: 20px;
         font-family: 'Source Code Pro', monospace;
@@ -48,9 +48,15 @@ layout: base
     }
 
     .footer {
-        background-color: #5bc0de;
+        background-color: #0070ec;
         padding-top: 1rem;
         padding-bottom: 2em;
+    }
+    .site-header a:hover {
+        text-decoration: none;
+    }
+    h5, h4 {
+        font-family: 'Source Code Pro', monospace;
     }
 </style>
 <div class="container-fluid header-container">
@@ -62,20 +68,20 @@ layout: base
                 <div class="col-md-9 ">
                     <div class="header-inner">
 
-                <span class="site-header"><a href="/"><h1 style="margin-bottom: 0;">Školení Docker</h1></a><i
+                <span class="site-header"><a href="/"><h1 style="margin-bottom: 0; color: white">Školení Docker</h1></a><i
                         class="fab fa-docker"></i></span>
-                        <p>by <a href="https://ondrej-sika.cz" style="color: black"><b>Ondrej Sika</b></a> | <a
-                                href="https://ondrej-sika.cz/skoleniio" style="color:black">Skoleni.io</a></p>
-                        <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-primary mb-2">Nezávazně
+                        <p style="color: white">by <a href="https://ondrej-sika.cz" style="color: white"><b>Ondrej Sika</b></a> | <a
+                                href="https://ondrej-sika.cz/skoleniio" style="color:white">Skoleni.io</a></p>
+                        <a href="https://ondrej-sika.cz/skoleni/docker/poptavka/" class="btn btn-large btn-outline-light mb-2">Nezávazně
                             poptat
                             školení</a>
-                        <a href="/#kontakt" class="btn btn-large btn-primary mb-2">Kontaktovat</a>
+                        <a href="/#kontakt" class="btn btn-large btn-outline-light mb-2">Kontaktovat</a>
 
                     </div>
                 </div>
 
                 <div class="col-md-3">
-                    <img src="/static/docker-brands.svg" class="img-responsive d-none d-md-block">
+                    <img src="/docker.png" class="img-fluid d-none d-md-block">
                 </div>
             </div>
         </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Školení Docker
+title: Docker školení 
 ---
 
 ## Aktualně vypsané termíny
